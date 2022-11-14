@@ -1,0 +1,20 @@
+Nucleoside_ID,Base_Mass,Nucleoside_Mass,Full_name
+dC,111.04326,227.09061,2'deoxycytidine
+dU,112.02728,228.07462,2'-deoxyuridine
+m4dC_or_m5dC,125.0589119,241.106256,N4-methyl-2′-deoxycytidine or 5-methyl-2′-deoxycytidine
+dT,126.04293,242.09027,thymidine
+dA,135.0545,251.10184,2'-deoxyadenosine
+dI,136.0385108,252.0858549,deoxyinosine
+5hmdC,141.05383,257.10117,5-hydroxymethyl-2′-deoxycytidine
+hm5dU,142.0378421,258.0851862,5-hydroxymethyl-2′-deoxyuridine
+m6dA,149.0701452,265.1174894,N6-methyl-2′-deoxyadenosine
+dG,151.04941,267.09675,2'deoxyguanosine
+5-NedU,155.0694765,271.1168207,5-aminoethyl-2′-deoxyuridine
+dPreQ1,179.0807099,295.128054,2′-deoxy-7-aminomethyl-7-deazaguanosine
+5-NeOmdU,185.0800412,301.1273853,5-aminoethoxy-2′-deoxymethyluridine
+dG+_or_ncm6dA,192.0759589,308.123303,2′-deoxy-7-formamidimide-7-deazaguanosine or N6-aminocarboxymethyl-2′-deoxyadenosine
+dADG,193.0599745,309.1073186,2′-deoxy-7-amido-7-deazaguanosine
+5-putT,212.1273258,328.1746699,5-putrescinylthymidine
+5-gluT,271.0804352,387.1277793,5-glutamylthymidine
+5gmdC,303.10665,419.15399,5-glucosylmethyl-2′-deoxycytidine
+dZ,150.0654383,266.1127383,2-Amino-2'-deoxyadenosine
